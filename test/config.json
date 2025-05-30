@@ -1,0 +1,10 @@
+{
+    "algorithm" : "expand",
+    "ambiguous" : true,
+    "enforceV" : true,
+    "enforceE" : true,
+    "score" : "order",
+    "measure" : true,
+    "timeout" : 120,
+    "useAnchor" : true
+}

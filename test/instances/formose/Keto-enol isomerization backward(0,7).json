@@ -1,0 +1,1256 @@
+{
+    "inputGraphs": [
+        {
+            "vertices": [
+                {
+                    "vid": "0",
+                    "label": "O"
+                },
+                {
+                    "vid": "1",
+                    "label": "C"
+                },
+                {
+                    "vid": "2",
+                    "label": "C"
+                },
+                {
+                    "vid": "3",
+                    "label": "O"
+                },
+                {
+                    "vid": "4",
+                    "label": "H"
+                },
+                {
+                    "vid": "5",
+                    "label": "H"
+                },
+                {
+                    "vid": "6",
+                    "label": "H"
+                },
+                {
+                    "vid": "7",
+                    "label": "H"
+                }
+            ],
+            "edges": [
+                {
+                    "source": "0",
+                    "target": "1",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "4",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "2",
+                    "label": "=/-"
+                },
+                {
+                    "source": "1",
+                    "target": "6",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "5",
+                    "label": "/-"
+                },
+                {
+                    "source": "2",
+                    "target": "3",
+                    "label": "-/="
+                },
+                {
+                    "source": "2",
+                    "target": "7",
+                    "label": "-"
+                },
+                {
+                    "source": "3",
+                    "target": "5",
+                    "label": "-/"
+                }
+            ],
+            "graph_index": "graph_0"
+        },
+        {
+            "vertices": [
+                {
+                    "vid": "0",
+                    "label": "C"
+                },
+                {
+                    "vid": "1",
+                    "label": "O"
+                },
+                {
+                    "vid": "2",
+                    "label": "H"
+                },
+                {
+                    "vid": "3",
+                    "label": "H"
+                },
+                {
+                    "vid": "4",
+                    "label": "O"
+                },
+                {
+                    "vid": "5",
+                    "label": "C"
+                },
+                {
+                    "vid": "6",
+                    "label": "C"
+                },
+                {
+                    "vid": "7",
+                    "label": "O"
+                },
+                {
+                    "vid": "8",
+                    "label": "H"
+                },
+                {
+                    "vid": "9",
+                    "label": "H"
+                },
+                {
+                    "vid": "10",
+                    "label": "H"
+                },
+                {
+                    "vid": "11",
+                    "label": "H"
+                }
+            ],
+            "edges": [
+                {
+                    "source": "0",
+                    "target": "1",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "2",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "3",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "5",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "9",
+                    "label": "-"
+                },
+                {
+                    "source": "4",
+                    "target": "5",
+                    "label": "-"
+                },
+                {
+                    "source": "4",
+                    "target": "8",
+                    "label": "-"
+                },
+                {
+                    "source": "5",
+                    "target": "6",
+                    "label": "=/-"
+                },
+                {
+                    "source": "5",
+                    "target": "10",
+                    "label": "/-"
+                },
+                {
+                    "source": "6",
+                    "target": "7",
+                    "label": "-/="
+                },
+                {
+                    "source": "6",
+                    "target": "11",
+                    "label": "-"
+                },
+                {
+                    "source": "7",
+                    "target": "10",
+                    "label": "-/"
+                }
+            ],
+            "graph_index": "graph_1"
+        },
+        {
+            "vertices": [
+                {
+                    "vid": "0",
+                    "label": "C"
+                },
+                {
+                    "vid": "1",
+                    "label": "O"
+                },
+                {
+                    "vid": "2",
+                    "label": "H"
+                },
+                {
+                    "vid": "3",
+                    "label": "H"
+                },
+                {
+                    "vid": "4",
+                    "label": "O"
+                },
+                {
+                    "vid": "5",
+                    "label": "C"
+                },
+                {
+                    "vid": "6",
+                    "label": "C"
+                },
+                {
+                    "vid": "7",
+                    "label": "O"
+                },
+                {
+                    "vid": "8",
+                    "label": "H"
+                },
+                {
+                    "vid": "9",
+                    "label": "H"
+                },
+                {
+                    "vid": "10",
+                    "label": "H"
+                },
+                {
+                    "vid": "11",
+                    "label": "H"
+                }
+            ],
+            "edges": [
+                {
+                    "source": "0",
+                    "target": "1",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "2",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "3",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "5",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "9",
+                    "label": "-"
+                },
+                {
+                    "source": "4",
+                    "target": "5",
+                    "label": "-/="
+                },
+                {
+                    "source": "4",
+                    "target": "8",
+                    "label": "-/"
+                },
+                {
+                    "source": "5",
+                    "target": "6",
+                    "label": "=/-"
+                },
+                {
+                    "source": "6",
+                    "target": "7",
+                    "label": "-"
+                },
+                {
+                    "source": "6",
+                    "target": "11",
+                    "label": "-"
+                },
+                {
+                    "source": "6",
+                    "target": "8",
+                    "label": "/-"
+                },
+                {
+                    "source": "7",
+                    "target": "10",
+                    "label": "-"
+                }
+            ],
+            "graph_index": "graph_2"
+        },
+        {
+            "vertices": [
+                {
+                    "vid": "0",
+                    "label": "O"
+                },
+                {
+                    "vid": "1",
+                    "label": "C"
+                },
+                {
+                    "vid": "2",
+                    "label": "C"
+                },
+                {
+                    "vid": "3",
+                    "label": "O"
+                },
+                {
+                    "vid": "4",
+                    "label": "H"
+                },
+                {
+                    "vid": "5",
+                    "label": "H"
+                },
+                {
+                    "vid": "6",
+                    "label": "H"
+                },
+                {
+                    "vid": "7",
+                    "label": "H"
+                },
+                {
+                    "vid": "8",
+                    "label": "O"
+                },
+                {
+                    "vid": "9",
+                    "label": "C"
+                },
+                {
+                    "vid": "10",
+                    "label": "C"
+                },
+                {
+                    "vid": "11",
+                    "label": "O"
+                },
+                {
+                    "vid": "12",
+                    "label": "H"
+                },
+                {
+                    "vid": "13",
+                    "label": "H"
+                },
+                {
+                    "vid": "14",
+                    "label": "H"
+                },
+                {
+                    "vid": "15",
+                    "label": "H"
+                }
+            ],
+            "edges": [
+                {
+                    "source": "0",
+                    "target": "1",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "4",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "2",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "5",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "6",
+                    "label": "-"
+                },
+                {
+                    "source": "2",
+                    "target": "3",
+                    "label": "-"
+                },
+                {
+                    "source": "2",
+                    "target": "7",
+                    "label": "-"
+                },
+                {
+                    "source": "2",
+                    "target": "9",
+                    "label": "-"
+                },
+                {
+                    "source": "3",
+                    "target": "13",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "9",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "12",
+                    "label": "-"
+                },
+                {
+                    "source": "9",
+                    "target": "10",
+                    "label": "=/-"
+                },
+                {
+                    "source": "9",
+                    "target": "14",
+                    "label": "/-"
+                },
+                {
+                    "source": "10",
+                    "target": "11",
+                    "label": "-/="
+                },
+                {
+                    "source": "10",
+                    "target": "15",
+                    "label": "-"
+                },
+                {
+                    "source": "11",
+                    "target": "14",
+                    "label": "-/"
+                }
+            ],
+            "graph_index": "graph_3"
+        },
+        {
+            "vertices": [
+                {
+                    "vid": "0",
+                    "label": "O"
+                },
+                {
+                    "vid": "1",
+                    "label": "C"
+                },
+                {
+                    "vid": "2",
+                    "label": "C"
+                },
+                {
+                    "vid": "3",
+                    "label": "O"
+                },
+                {
+                    "vid": "4",
+                    "label": "H"
+                },
+                {
+                    "vid": "5",
+                    "label": "H"
+                },
+                {
+                    "vid": "6",
+                    "label": "H"
+                },
+                {
+                    "vid": "7",
+                    "label": "H"
+                },
+                {
+                    "vid": "8",
+                    "label": "O"
+                },
+                {
+                    "vid": "9",
+                    "label": "C"
+                },
+                {
+                    "vid": "10",
+                    "label": "C"
+                },
+                {
+                    "vid": "11",
+                    "label": "O"
+                },
+                {
+                    "vid": "12",
+                    "label": "H"
+                },
+                {
+                    "vid": "13",
+                    "label": "H"
+                },
+                {
+                    "vid": "14",
+                    "label": "H"
+                },
+                {
+                    "vid": "15",
+                    "label": "H"
+                }
+            ],
+            "edges": [
+                {
+                    "source": "0",
+                    "target": "1",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "4",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "2",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "5",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "6",
+                    "label": "-"
+                },
+                {
+                    "source": "2",
+                    "target": "3",
+                    "label": "-"
+                },
+                {
+                    "source": "2",
+                    "target": "7",
+                    "label": "-"
+                },
+                {
+                    "source": "2",
+                    "target": "9",
+                    "label": "-"
+                },
+                {
+                    "source": "3",
+                    "target": "13",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "9",
+                    "label": "-/="
+                },
+                {
+                    "source": "8",
+                    "target": "12",
+                    "label": "-/"
+                },
+                {
+                    "source": "9",
+                    "target": "10",
+                    "label": "=/-"
+                },
+                {
+                    "source": "10",
+                    "target": "11",
+                    "label": "-"
+                },
+                {
+                    "source": "10",
+                    "target": "15",
+                    "label": "-"
+                },
+                {
+                    "source": "10",
+                    "target": "12",
+                    "label": "/-"
+                },
+                {
+                    "source": "11",
+                    "target": "14",
+                    "label": "-"
+                }
+            ],
+            "graph_index": "graph_4"
+        },
+        {
+            "vertices": [
+                {
+                    "vid": "0",
+                    "label": "O"
+                },
+                {
+                    "vid": "1",
+                    "label": "C"
+                },
+                {
+                    "vid": "2",
+                    "label": "C"
+                },
+                {
+                    "vid": "3",
+                    "label": "O"
+                },
+                {
+                    "vid": "4",
+                    "label": "H"
+                },
+                {
+                    "vid": "5",
+                    "label": "H"
+                },
+                {
+                    "vid": "6",
+                    "label": "H"
+                },
+                {
+                    "vid": "7",
+                    "label": "H"
+                },
+                {
+                    "vid": "8",
+                    "label": "C"
+                },
+                {
+                    "vid": "9",
+                    "label": "O"
+                },
+                {
+                    "vid": "10",
+                    "label": "H"
+                },
+                {
+                    "vid": "11",
+                    "label": "H"
+                },
+                {
+                    "vid": "12",
+                    "label": "O"
+                },
+                {
+                    "vid": "13",
+                    "label": "C"
+                },
+                {
+                    "vid": "14",
+                    "label": "C"
+                },
+                {
+                    "vid": "15",
+                    "label": "O"
+                },
+                {
+                    "vid": "16",
+                    "label": "H"
+                },
+                {
+                    "vid": "17",
+                    "label": "H"
+                },
+                {
+                    "vid": "18",
+                    "label": "H"
+                },
+                {
+                    "vid": "19",
+                    "label": "H"
+                }
+            ],
+            "edges": [
+                {
+                    "source": "0",
+                    "target": "1",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "4",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "2",
+                    "label": "=/-"
+                },
+                {
+                    "source": "1",
+                    "target": "14",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "6",
+                    "label": "/-"
+                },
+                {
+                    "source": "2",
+                    "target": "3",
+                    "label": "-/="
+                },
+                {
+                    "source": "2",
+                    "target": "7",
+                    "label": "-"
+                },
+                {
+                    "source": "3",
+                    "target": "6",
+                    "label": "-/"
+                },
+                {
+                    "source": "5",
+                    "target": "15",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "9",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "10",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "11",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "13",
+                    "label": "-"
+                },
+                {
+                    "source": "9",
+                    "target": "17",
+                    "label": "-"
+                },
+                {
+                    "source": "12",
+                    "target": "13",
+                    "label": "-"
+                },
+                {
+                    "source": "12",
+                    "target": "16",
+                    "label": "-"
+                },
+                {
+                    "source": "13",
+                    "target": "14",
+                    "label": "-"
+                },
+                {
+                    "source": "13",
+                    "target": "18",
+                    "label": "-"
+                },
+                {
+                    "source": "14",
+                    "target": "15",
+                    "label": "-"
+                },
+                {
+                    "source": "14",
+                    "target": "19",
+                    "label": "-"
+                }
+            ],
+            "graph_index": "graph_5"
+        },
+        {
+            "vertices": [
+                {
+                    "vid": "0",
+                    "label": "O"
+                },
+                {
+                    "vid": "1",
+                    "label": "C"
+                },
+                {
+                    "vid": "2",
+                    "label": "C"
+                },
+                {
+                    "vid": "3",
+                    "label": "O"
+                },
+                {
+                    "vid": "4",
+                    "label": "H"
+                },
+                {
+                    "vid": "5",
+                    "label": "H"
+                },
+                {
+                    "vid": "6",
+                    "label": "H"
+                },
+                {
+                    "vid": "7",
+                    "label": "H"
+                },
+                {
+                    "vid": "8",
+                    "label": "C"
+                },
+                {
+                    "vid": "9",
+                    "label": "O"
+                },
+                {
+                    "vid": "10",
+                    "label": "H"
+                },
+                {
+                    "vid": "11",
+                    "label": "H"
+                },
+                {
+                    "vid": "12",
+                    "label": "O"
+                },
+                {
+                    "vid": "13",
+                    "label": "C"
+                },
+                {
+                    "vid": "14",
+                    "label": "C"
+                },
+                {
+                    "vid": "15",
+                    "label": "O"
+                },
+                {
+                    "vid": "16",
+                    "label": "H"
+                },
+                {
+                    "vid": "17",
+                    "label": "H"
+                },
+                {
+                    "vid": "18",
+                    "label": "H"
+                },
+                {
+                    "vid": "19",
+                    "label": "H"
+                }
+            ],
+            "edges": [
+                {
+                    "source": "0",
+                    "target": "1",
+                    "label": "-/="
+                },
+                {
+                    "source": "0",
+                    "target": "4",
+                    "label": "-/"
+                },
+                {
+                    "source": "1",
+                    "target": "2",
+                    "label": "=/-"
+                },
+                {
+                    "source": "1",
+                    "target": "14",
+                    "label": "-"
+                },
+                {
+                    "source": "2",
+                    "target": "3",
+                    "label": "-"
+                },
+                {
+                    "source": "2",
+                    "target": "7",
+                    "label": "-"
+                },
+                {
+                    "source": "2",
+                    "target": "4",
+                    "label": "/-"
+                },
+                {
+                    "source": "3",
+                    "target": "6",
+                    "label": "-"
+                },
+                {
+                    "source": "5",
+                    "target": "15",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "9",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "10",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "11",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "13",
+                    "label": "-"
+                },
+                {
+                    "source": "9",
+                    "target": "17",
+                    "label": "-"
+                },
+                {
+                    "source": "12",
+                    "target": "13",
+                    "label": "-"
+                },
+                {
+                    "source": "12",
+                    "target": "16",
+                    "label": "-"
+                },
+                {
+                    "source": "13",
+                    "target": "14",
+                    "label": "-"
+                },
+                {
+                    "source": "13",
+                    "target": "18",
+                    "label": "-"
+                },
+                {
+                    "source": "14",
+                    "target": "15",
+                    "label": "-"
+                },
+                {
+                    "source": "14",
+                    "target": "19",
+                    "label": "-"
+                }
+            ],
+            "graph_index": "graph_6"
+        },
+        {
+            "vertices": [
+                {
+                    "vid": "0",
+                    "label": "O"
+                },
+                {
+                    "vid": "1",
+                    "label": "C"
+                },
+                {
+                    "vid": "2",
+                    "label": "C"
+                },
+                {
+                    "vid": "3",
+                    "label": "O"
+                },
+                {
+                    "vid": "4",
+                    "label": "H"
+                },
+                {
+                    "vid": "5",
+                    "label": "H"
+                },
+                {
+                    "vid": "6",
+                    "label": "H"
+                },
+                {
+                    "vid": "7",
+                    "label": "H"
+                },
+                {
+                    "vid": "8",
+                    "label": "O"
+                },
+                {
+                    "vid": "9",
+                    "label": "C"
+                },
+                {
+                    "vid": "10",
+                    "label": "C"
+                },
+                {
+                    "vid": "11",
+                    "label": "O"
+                },
+                {
+                    "vid": "12",
+                    "label": "H"
+                },
+                {
+                    "vid": "13",
+                    "label": "H"
+                },
+                {
+                    "vid": "14",
+                    "label": "H"
+                },
+                {
+                    "vid": "15",
+                    "label": "H"
+                },
+                {
+                    "vid": "16",
+                    "label": "O"
+                },
+                {
+                    "vid": "17",
+                    "label": "C"
+                },
+                {
+                    "vid": "18",
+                    "label": "C"
+                },
+                {
+                    "vid": "19",
+                    "label": "O"
+                },
+                {
+                    "vid": "20",
+                    "label": "H"
+                },
+                {
+                    "vid": "21",
+                    "label": "H"
+                },
+                {
+                    "vid": "22",
+                    "label": "H"
+                },
+                {
+                    "vid": "23",
+                    "label": "H"
+                }
+            ],
+            "edges": [
+                {
+                    "source": "0",
+                    "target": "1",
+                    "label": "-"
+                },
+                {
+                    "source": "0",
+                    "target": "4",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "2",
+                    "label": "=/-"
+                },
+                {
+                    "source": "1",
+                    "target": "18",
+                    "label": "-"
+                },
+                {
+                    "source": "1",
+                    "target": "6",
+                    "label": "/-"
+                },
+                {
+                    "source": "2",
+                    "target": "3",
+                    "label": "-/="
+                },
+                {
+                    "source": "2",
+                    "target": "7",
+                    "label": "-"
+                },
+                {
+                    "source": "3",
+                    "target": "6",
+                    "label": "-/"
+                },
+                {
+                    "source": "5",
+                    "target": "19",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "9",
+                    "label": "-"
+                },
+                {
+                    "source": "8",
+                    "target": "12",
+                    "label": "-"
+                },
+                {
+                    "source": "9",
+                    "target": "10",
+                    "label": "-"
+                },
+                {
+                    "source": "9",
+                    "target": "13",
+                    "label": "-"
+                },
+                {
+                    "source": "9",
+                    "target": "14",
+                    "label": "-"
+                },
+                {
+                    "source": "10",
+                    "target": "11",
+                    "label": "-"
+                },
+                {
+                    "source": "10",
+                    "target": "15",
+                    "label": "-"
+                },
+                {
+                    "source": "10",
+                    "target": "17",
+                    "label": "-"
+                },
+                {
+                    "source": "11",
+                    "target": "21",
+                    "label": "-"
+                },
+                {
+                    "source": "16",
+                    "target": "17",
+                    "label": "-"
+                },
+                {
+                    "source": "16",
+                    "target": "20",
+                    "label": "-"
+                },
+                {
+                    "source": "17",
+                    "target": "18",
+                    "label": "-"
+                },
+                {
+                    "source": "17",
+                    "target": "22",
+                    "label": "-"
+                },
+                {
+                    "source": "18",
+                    "target": "19",
+                    "label": "-"
+                },
+                {
+                    "source": "18",
+                    "target": "23",
+                    "label": "-"
+                }
+            ],
+            "graph_index": "graph_7"
+        }
+    ],
+    "anchor_mappings": [
+        [
+            [
+                "1",
+                "5",
+                "6",
+                "9",
+                "10",
+                "1",
+                "2",
+                "1"
+            ],
+            [
+                "2",
+                "6",
+                "5",
+                "10",
+                "9",
+                "2",
+                "1",
+                "2"
+            ],
+            [
+                "3",
+                "7",
+                "4",
+                "11",
+                "8",
+                "3",
+                "0",
+                "3"
+            ],
+            [
+                "5",
+                "10",
+                "8",
+                "14",
+                "12",
+                "6",
+                "4",
+                "6"
+            ]
+        ]
+    ]
+}
