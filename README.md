@@ -46,7 +46,18 @@ As an example, one can execute the following commands after having invoked ```ma
 
 * ```./align -g instances/ppp/Aldolase\(17\,22\).json config.json "((((2,4),0),(3,5)),1)"```
 
+Using the parameter ```-st``` or ```-g``` also writes the found alignment to ```INSTANCE_PATH_report.json``` which can be used for manual inspection and visualisation purposes.
+
 ## Visualisation
+[ProGrAlign](#1) introduced a visualisation tool for their found alignments. We have adapted their Python code in ```test/visualisation.py``` to fit the format of our alignments. To visualise a report, one can invoke the following inside graphalign/test/:
+
+* ```python3 visualisation.py Aldolase\(17\,22\)_report.json```
+
+after having executed ```align``` as described in Getting Started. The visualisation creates a 1D and 2D plot of the alignment and saves them as separate PDFs.
+
+* The 1D plot shows the alignment graph and the corresponding alignment table.
+
+* The 2D plot shows the individual input graphs and their embeddings in the final alignment graph. Moreover, the common subgraph depicted by the set of match columns is shown on the last page.
 
 
 ## References
